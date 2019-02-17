@@ -1,8 +1,8 @@
 ### [Русский](#перевод-gzdoom-на-русский-язык)
-### Текущая версия перевода: [0.7.0](https://github.com/Nemrtvi/gzdoom-russian-translation/releases/tag/0.7.0)
+### Текущая версия перевода: [0.8.0](https://github.com/Nemrtvi/gzdoom-russian-translation/releases/tag/0.8.0)
 
 ### [English](#russian-translation-of-gzdoom)
-### Current translation version: [0.7.0](https://github.com/Nemrtvi/gzdoom-russian-translation/releases/tag/0.7.0)
+### Current translation version: [0.8.0](https://github.com/Nemrtvi/gzdoom-russian-translation/releases/tag/0.8.0)
 
 ## Перевод GZDoom на русский язык
 ![https://u.cubeupload.com/SashaRed/ScreenshotDoom201901.png](https://u.cubeupload.com/SashaRed/ScreenshotDoom201901.png)
